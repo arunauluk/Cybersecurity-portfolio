@@ -44,4 +44,4 @@ A simulated incident investigation into a brute force attack and subsequent malw
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/arun-auluk/ 
-- Location: Northern Ireland (open to remote / EU relocation)
+- Location: UK
