@@ -23,9 +23,8 @@ Identifying what happened at the network level is only half the job. The other h
 
 ## Files in This Repository
 
-- [Security Incident report (.dox)](./Security%20incident%20report%20template.docx)
-- `security incident report template.docx` — Full three-section incident report: protocol identification, incident documentation, and remediation recommendation.
-- `tcpdump traffic log.docx` — Raw packet capture used as evidence for protocol identification in Section 1 of the report.
+- [Security Incident report (.dox)](./Security%20incident%20report%20template.docx) — Full three-section incident report: protocol identification, incident documentation, and remediation recommendation.
+- [TCP Dump log (.docx)](./tcpdump%20traffic%20log.docx) — Eidence for protocol identification in Section 1 of the report.
 
 ## Tools & Concepts Used
 
