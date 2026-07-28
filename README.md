@@ -11,7 +11,7 @@ I believe you can't effectively govern or assess risk without first understandin
 - **Frameworks & Standards:** NIST CSF, ISO 27001, PCI DSS, GDPR
 - **Security Fundamentals:** SIEM tools, network fundamentals, attack methods & mitigation, incident playbooks
 - **Analysis:** ~10 years of formal report writing, evidence-based investigation, structured risk assessment
-- **In Progress:** Google Cybersecurity Certificate → ISC2 CC → CompTIA Security+
+- **In Progress:** Google Cybersecurity Certificate
 
 ---
 
@@ -43,5 +43,5 @@ A simulated incident investigation into a brute force attack and subsequent malw
 
 ## 📫 Contact
 
-- LinkedIn: [your profile link]
+- LinkedIn: https://www.linkedin.com/in/arun-auluk/ 
 - Location: Northern Ireland (open to remote / EU relocation)
