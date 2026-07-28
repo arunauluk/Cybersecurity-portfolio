@@ -1,78 +1,47 @@
-# Security Audit – Botium Toys
+# Arun Auluk — Security & GRC Portfolio
 
-## Overview
+Investigating Officer (NIPSO) transitioning into Governance, Risk & Compliance / Cybersecurity. Background in policing and prison service investigation, now building technical grounding through the Google Cybersecurity Certificate and applying it to real-world style security audits.
 
-This is a practice internal security audit I completed as part of the **Google Cybersecurity Certificate**. The scenario involves a fictional retail company, Botium Toys, whose IT department required an assessment of their existing security controls and compliance posture.
-
-I audited the full scope of Botium Toys' security programme — including internal systems, employee devices, network infrastructure, and physical assets.
+I believe you can't effectively govern or assess risk without first understanding the technical detail underneath it — that's the lens behind every project below.
 
 ---
 
-## Objectives
+## 🧰 Core Skills
 
-- Assess existing assets and identify gaps in security controls
-- Evaluate compliance against relevant regulatory standards
-- Provide prioritised recommendations to improve the organisation's security posture
-
----
-
-## Frameworks & Standards Referenced
-
-| Framework | Purpose |
-|---|---|
-| NIST Cybersecurity Framework (CSF) | Structured my audit approach across Identify, Protect, Detect, Respond, Recover |
-| PCI DSS | Assessed controls around cardholder data handling and secure payment processing |
-| GDPR | Evaluated data protection practices for EU customer data |
-| SOC Type 1 & Type 2 | Reviewed internal controls over data access, integrity, and confidentiality |
+- **Frameworks & Standards:** NIST CSF, ISO 27001, PCI DSS, GDPR
+- **Security Fundamentals:** SIEM tools, network fundamentals, attack methods & mitigation, incident playbooks
+- **Analysis:** ~10 years of formal report writing, evidence-based investigation, structured risk assessment
+- **In Progress:** Google Cybersecurity Certificate → ISC2 CC → CompTIA Security+
 
 ---
 
-## Key Findings
+## 📂 Projects
 
-**Controls currently in place:**
-- Firewall with defined rule set
-- Antivirus software with regular monitoring
-- Physical security (locks, CCTV, fire detection)
-- GDPR-compliant breach notification plan (72-hour EU customer notification)
+### 🧸 Botium Toys — Security Audit
+A full security audit of a fictional toy retailer, assessing compliance posture and control gaps across payment handling and data protection.
 
-**Critical gaps identified (High priority):**
-- No least privilege or separation of duties — all employees have unrestricted data access
-- No encryption for stored or transmitted data, including cardholder information
-- No intrusion detection system (IDS)
-- No backups or disaster recovery plan
-
-**Additional gaps (Medium/Low priority):**
-- Password policy exists but does not meet minimum complexity requirements
-- No centralised password management system
-- No formal schedule for legacy system maintenance
+- **Scope:** Compliance review (PCI DSS, GDPR), control assessment, risk findings
+- **Highlights:**
+  - Identified gaps against PCI DSS and GDPR requirements
+  - Assessed against SOC Type 1 / Type 2 control expectations
+  - Produced formal audit report with prioritised remediation recommendations
+- 📄 [Read the full report](./botium-toys/README.md)
 
 ---
 
-## Compliance Summary
+### 🍲 Yummy Recipes For Me — Security Incident Investigation
+A simulated incident investigation into a brute force attack and subsequent malware distribution affecting a fictional e-commerce site, based on packet capture evidence.
 
-| Standard | Status |
-|---|---|
-| PCI DSS | Non-compliant across all assessed best practices |
-| GDPR | Partially compliant — notification plan in place; data security gaps remain |
-| SOC Type 1 & 2 | Partially compliant — data integrity maintained; access control gaps identified |
-
----
-
-## Skills Demonstrated
-
-- Security control assessment (Administrative, Technical, Physical)
-- Compliance gap analysis
-- Risk prioritisation and communication
-- Report writing for a non-technical stakeholder audience
+- **Scope:** Protocol identification via tcpdump analysis, evidence-based incident documentation, remediation recommendation
+- **Highlights:**
+  - Traced a brute force attack exploiting an unchanged default admin password through to a malicious payload delivered over HTTP
+  - Linked customer-reported symptoms and admin lockout to log evidence to root cause, in a factual, audit-usable format
+  - Recommended password reuse restrictions, rotation, and 2FA as controls directly tied to the identified vulnerability
+- 📄 [Read the full report](./yummy-recipes/README.md)
 
 ---
 
-## Files
+## 📫 Contact
 
-| File | Description |
-|---|---|
-| `Botium Toys Security Audit - Arun Auluk.docx` | Full audit report including controls checklist, compliance assessment, and recommendations |
-
----
-
-*Completed as part of the Google Cybersecurity Certificate — Foundation of Cybersecurity track.*
+- LinkedIn: [your profile link]
+- Location: Northern Ireland (open to remote / EU relocation)
