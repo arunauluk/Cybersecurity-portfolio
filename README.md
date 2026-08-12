@@ -42,7 +42,7 @@ A simulated incident investigation into a brute force attack and subsequent malw
 ---
 
 ## Technical Practice
-
+[File permissions in Linux(.docx)](File%20permissions%20in%20Linux%20.docx) - Linux permission auditing (chmod, leats privilege, hidden files)
 
 ---
 
