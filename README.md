@@ -41,6 +41,11 @@ A simulated incident investigation into a brute force attack and subsequent malw
 
 ---
 
+## Technical Practice
+
+
+---
+
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/arun-auluk/ 
