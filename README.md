@@ -42,8 +42,8 @@ A simulated incident investigation into a brute force attack and subsequent malw
 ---
 
 ## Technical Practice
-[File permissions in Linux (.docx)](File%20permissions%20in%20Linux%20.docx) - Linux permission auditing (chmod, least privilege, hidden files)
-
+- [File permissions in Linux (.docx)](File%20permissions%20in%20Linux%20.docx) - Linux permission auditing (chmod, least privilege, hidden files)
+- [Apply filters to SQL queries (.docx)](Apply%20filers%20to%20SQL%20queries%20.docx) - Applied filtering logic (AND, OR, NOT, LIKE) in SQL to investigate login activity and identify employees for a security update, using MariaDB
 ---
 
 ## 📫 Contact
