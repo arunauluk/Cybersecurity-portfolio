@@ -82,7 +82,7 @@ offboarding records.
 
 The full SQL investigation is available in:
 
-`Investigation-Queries.sql`
+`Investigation-Queries.sql`(Investigation%20queries.sql)
 
 A detailed investigation report containing findings, risk analysis
 and recommendations is available in:
