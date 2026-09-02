@@ -1,0 +1,61 @@
+employee_id,first_name,last_name,username,department,office,employment_status
+1001,Aisha,Ahmed,aahmed,Human Resources,Birmingham,Active
+1002,Ben,Brown,bbrown,Human Resources,Manchester,Active
+1003,Chloe,Clark,cclark,Legal,London,Active
+1004,Daniel,Davies,ddavies,Information Technology,Belfast,Active
+1005,Emily,Evans,eevans,Marketing,Belfast,Active
+1006,Farah,Foster,ffoster,Human Resources,Birmingham,Active
+1007,George,Green,ggreen,Human Resources,Belfast,Active
+1008,Hannah,Hall,hhall,Finance,London,Active
+1009,Imran,Iqbal,iiqbal,Legal,Belfast,Active
+1010,Jack,Jones,jjones,Human Resources,Manchester,Active
+1011,Kavita,Kaur,kkaur,Customer Support,Birmingham,Active
+1012,Lewis,Lewis,llewis,Operations,Birmingham,Active
+1013,Maya,Moore,mmoore,Human Resources,London,Active
+1014,Nathan,Nolan,nnolan,Sales,Belfast,Active
+1015,Olivia,Owens,oowens,Finance,Belfast,Active
+1016,Priya,Patel,ppatel,Customer Support,Birmingham,Active
+1017,Ryan,Reed,rreed,Information Technology,London,Active
+1018,Sophie,Singh,ssingh,Operations,Belfast,Active
+1019,Tom,Taylor,ttaylor,Legal,Birmingham,Active
+1020,Zara,Walker,zwalker,Operations,Belfast,Active
+1021,Aaron,Young,ayoung,Customer Support,Manchester,Active
+1022,Beth,Bennett,bbennett,Legal,Belfast,Active
+1023,Callum,Carter,ccarter,Customer Support,London,Active
+1024,Deepa,Desai,ddesai,Information Technology,Birmingham,Active
+1025,Ethan,Edwards,eedwards,Sales,Belfast,Active
+1026,Freya,Fisher,ffisher,Legal,Belfast,Active
+1027,Gavin,Grant,ggrant,Operations,Manchester,Active
+1028,Heidi,Hughes,hhughes,Customer Support,Birmingham,Active
+1029,Isaac,Irwin,iirwin,Customer Support,London,Active
+1030,Jasmine,James,jjames,Operations,Belfast,Active
+1031,Kyle,King,kking,Human Resources,Belfast,Active
+1032,Leah,Lane,llane,Human Resources,Belfast,Active
+1033,Marcus,Morris,mmorris,Human Resources,Manchester,Active
+1034,Nadia,Nair,nnair,Operations,Birmingham,Active
+1035,Owen,Price,oprice,Marketing,London,Active
+1036,Poppy,Quinn,pquinn,Legal,Birmingham,Active
+1037,Qasim,Roberts,qroberts,Operations,Belfast,Active
+1038,Rachel,Shah,rshah,Sales,Birmingham,Terminated
+1039,Sam,Turner,sturner,Sales,London,Active
+1040,Tara,Usman,tusman,Legal,London,Active
+1041,Uma,Vaughan,uvaughan,Legal,Belfast,Active
+1042,Victor,White,vwhite,Marketing,Birmingham,Active
+1043,Will,Xu,wxu,Operations,Manchester,Active
+1044,Xenia,Yates,xyates,Operations,London,Active
+1045,Yusuf,Zimmer,yzimmer,Information Technology,Belfast,Active
+1046,Zoey,Archer,zarcher,Finance,Belfast,Active
+1047,Adam,Brooks,abrooks,Finance,Manchester,Active
+1048,Bianca,Cole,bcole,Finance,Manchester,Active
+1049,Connor,Dunn,cdunn,Human Resources,London,Active
+1050,Dina,Ellis,dellis,Operations,Belfast,Active
+1051,Elliot,Ford,eford,Human Resources,Birmingham,Active
+1052,Fiona,Gray,fgray,Customer Support,Birmingham,Active
+1053,Harvey,Hill,hhill,Information Technology,Belfast,Active
+1054,Ivy,Ingram,iingram,Human Resources,Belfast,Active
+1055,Jonah,Knight,jknight,Legal,Manchester,Active
+1056,Keira,Mason,kmason,Sales,Birmingham,Active
+1057,Liam,North,lnorth,Marketing,London,Active
+1058,Mina,Olsen,molsen,Finance,Birmingham,Active
+1059,Noah,Perry,nperry,Sales,Belfast,Active
+1060,Orla,Reynolds,oreynolds,Marketing,London,Active
