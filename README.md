@@ -1,8 +1,11 @@
-# Arun Auluk — Security & GRC Portfolio
+# Arun Auluk — Cybersecurity portfolio
 
-Investigating Officer (NIPSO) transitioning into Governance, Risk & Compliance / Cybersecurity. Background in policing and prison service investigation, now building technical grounding through the Google Cybersecurity Certificate and applying it to real-world style security audits.
+Cybersecurity portfolio documenting my transition into information
+security through independent investigations, practical labs and
+security assessments.
 
-I believe you can't effectively govern or assess risk without first understanding the technical detail underneath it — that's the lens behind every project below.
+My current areas of focus include security analysis, SQL, Linux,
+incident investigation and governance, risk and compliance.
 
 ---
 
@@ -16,6 +19,18 @@ I believe you can't effectively govern or assess risk without first understandin
 ---
 
 ## 📂 Projects
+
+### 🔎 Independent SQL Security Investigation
+**SQL | Authentication Analysis | Incident Investigation**
+
+Analysed 1,142 simulated authentication events across 60 employee
+accounts to identify suspicious behaviour.
+
+Used SQL aggregation, joins, filtering and behavioural analysis to
+identify a suspected account compromise and potential account
+termination issue.
+
+[View project](./SQL-Security-Investigation/)
 
 ### 🧸 Botium Toys — Security Audit
 A full security audit of a fictional toy retailer, assessing compliance posture and control gaps across payment handling and data protection.
