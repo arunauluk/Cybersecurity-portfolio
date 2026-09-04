@@ -71,7 +71,7 @@ I audited the full scope of Botium Toys' security programme — including intern
 
 | File | Description |
 |---|---|
-| [Botium Toys Security Audit (.docx)](/Botium%20toys%20security%20audit%20-%20Arun%20Auluk.docx) - Full audit report including controls checklist, compliance assessment, and recommendations |
+| [Botium Toys Security Audit (.pdf)](/Botium%20toys%20security%20audit%20-%20Arun%20Auluk.pdf) - Full audit report including controls checklist, compliance assessment, and recommendations |
 
 ---
 
