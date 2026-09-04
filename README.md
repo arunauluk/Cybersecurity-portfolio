@@ -32,6 +32,8 @@ termination issue.
 
 [View project](./SQL-Security-Investigation/)
 
+---
+
 ### 🧸 Botium Toys — Security Audit
 A full security audit of a fictional toy retailer, assessing compliance posture and control gaps across payment handling and data protection.
 
