@@ -23,8 +23,8 @@ Identifying what happened at the network level is only half the job. The other h
 
 ## Files in This Repository
 
-- [Security Incident report (.docx)](./Security%20incident%20report%20template.docx) — Full three-section incident report: protocol identification, incident documentation, and remediation recommendation.
-- [TCP Dump log (.docx)](./tcpdump%20traffic%20log.docx) — Evidence for protocol identification in Section 1 of the report.
+- [Security Incident report (.pdf)](./Security%20incident%20report%20template.pdf) — Full three-section incident report: protocol identification, incident documentation, and remediation recommendation.
+- [TCP Dump log (.pdf)](./tcpdump%20traffic%20log.pdf) — Evidence for protocol identification in Section 1 of the report.
 
 ## Tools & Concepts Used
 
